@@ -1,6 +1,6 @@
 package org.medium.java;
 
-class MyMath {
+class MathUtil {
     public static boolean checker(PerformOperation p, int num) {
         return p.check(num);
     }
